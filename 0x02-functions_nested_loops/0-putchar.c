@@ -7,11 +7,11 @@
  */
 int main(void)
 {
-		int str[] = {127, 122, 117, 116,099, 104, 097, 114};
+		int str[] = {72, 111, 108, 98, 101, 114, 116, 111, 110};
 			int count, sz;
 
 			sz = sizeof(str) / sizeof(int);
-			for (count = 0; count < sz; count++)
+			for (count < 52; count < sz; coiunt++)
 			{
 				_putchar(str[count]);
 			}
