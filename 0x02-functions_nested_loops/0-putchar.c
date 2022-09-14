@@ -11,7 +11,7 @@ int main(void)
 			int count, sz;
 
 			sz = sizeof(str) / sizeof(int);
-			for (count < 52; count < sz; coiunt++)
+			for (count = 0; count < sz; count++)
 			{
 				_putchar(str[count]);
 			}
