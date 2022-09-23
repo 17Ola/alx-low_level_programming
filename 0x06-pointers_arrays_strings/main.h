@@ -1,5 +1,5 @@
-#ifndef HOLBERTON_H_INCLUDED
-#define HOLBERTON_H_INCLUDED
+#ifndef MAIN_H_INCLUDED
+#define MAIN_H_INCLUDED
 
 char *_strcat(char *dest, char *src);
 char *_strncat(char *dest, char *src, int n);
@@ -16,4 +16,4 @@ char *infinite_add(char *n1, char *n2, char *r, int size_r);
 void print_buffer(char *b, int size);
 void print_line(char *c, int s, int l);
 
-#endif
+#endif 
