@@ -12,7 +12,7 @@
  * @next: points to the next node
  *
  * Description: singly linked list node structure
- * for Alx project
+ * for holberton project
  */
 typedef struct list_s
 {
